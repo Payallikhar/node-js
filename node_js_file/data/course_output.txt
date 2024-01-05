@@ -1,0 +1,8 @@
+We are learning DevOps Course
+Learnings would be 
+- NodeJS
+- Docker and Containers
+- Kubernetes
+- AWS Cloud
+- Git
+- Jenkins

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "fruitName": "Avocado",
+    "from": "Tamilnadu",
+    "nutrients": "Vitamin B, Vitamin K",
+    "price": "200.50",
+    "organic": true,
+    "description": "An avocado is a bright green fruit with a large pit and dark leathery skin. They're also known as alligator pears or butter fruit. Avocados are a favorite of the produce section. They're the go-to ingredient for guacamole dips."
+  },
+  {
+    "id": 1,
+    "fruitName": "Apple",
+    "from": "Kashmir",
+    "nutrients": "Vitamin A-Complex",
+    "price": "250.00",
+    "organic": false,
+    "description": "The apple is one of the pome (fleshy) fruits. Apples at harvest vary widely in size, shape, colour, and acidity, but most are fairly round and some shade of red or yellow. The thousands of varieties fall into three broad classes: cider, cooking, and dessert varieties."
+  },
+  {
+    "id": 2,
+    "fruitName": "Orange",
+    "from": "Maharashtra",
+    "nutrients": "Vitamin C, Vitamin A",
+    "price": "85.50",
+    "organic": true,
+    "description": "Orange, usually sweet juicy fruit with a yellowish to reddish orange rind. : any of various small evergreen citrus trees having shiny leaves, fragrant white flowers, and fruits which are oranges. : a color between red and yellow."
+  },
+  {
+    "id": 3,
+    "fruitName": "Grapes",
+    "from": "Maharashtra",
+    "nutrients": "Vitamin B, Vitamin C, Vitamin K",
+    "price": "53.00",
+    "organic": true,
+    "description": "Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink. White grapes are actually green in color, and are evolutionarily derived from the purple grape."
+  },
+  {
+    "id": 4,
+    "fruitName": "Pomegranate",
+    "from": "Andhra Pradesh",
+    "nutrients": "Vitamin C, Calcium",
+    "price": "72.00",
+    "organic": false,
+    "description": "The pomegranate plant is a large shrub or small tree that has smooth, evergreen leaves and showy orange to red flowers. It has rounded fruit with a dry outer covering (husk) made up of two layers: (1) a hard-outer layer called an epicarp, (2) a soft inner layer called a mesocarp."
+  },
+  {
+    "id": 5,
+    "fruitName": "Banana",
+    "from": "Andhra Pradesh",
+    "nutrients": "Vitamin A",
+    "price": "82.00",
+    "organic": false,
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas."
+  }
+]
